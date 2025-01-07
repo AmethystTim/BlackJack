@@ -1,6 +1,6 @@
 # BlackJack
 
-一个面向LangBot的BlackJack（21点）游戏插件！
+一个基于[LangBot](https://github.com/RockChinQ/LangBot)的BlackJack（21点）游戏插件！
 
 ## 安装
 
