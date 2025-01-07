@@ -19,7 +19,13 @@
 
 <summary>展开查看</summary>
 
-![alt text](./images/readme.jpg)
+<div align="center" style="display:flex; flex-direction:row;">
+
+![alt text](./images/readme_1.jpg)
+
+![alt text](./images/readme_2.jpg)
+
+</div>
 
 </details>
 
