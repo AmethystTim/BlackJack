@@ -27,7 +27,7 @@ class Player:
         return self.calculate_score() > 21
 
 # 注册插件
-@register(name="BlackJack", description="BlackJack", version="1.0", author="Amethyst")
+@register(name="BlackJack", description="A BlackJack Game Plugin", version="1.0", author="Amethyst")
 class BlackJackPlugin(BasePlugin):
     # 插件加载时触发
     def __init__(self, host: APIHost):
