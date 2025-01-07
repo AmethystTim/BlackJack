@@ -19,12 +19,9 @@
 
 <summary>展开查看</summary>
 
-<div align="center" style="display:flex; flex-direction:row;">
-
-![alt text](./images/readme_1.jpg)
-
-![alt text](./images/readme_2.jpg)
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/AmethystTim/BlackJack/refs/heads/master/images/readme_1.jpg" style="display:inline-block;width:40%;margin:5px">
+<img src="https://raw.githubusercontent.com/AmethystTim/BlackJack/refs/heads/master/images/readme_2.jpg" style="display:inline-block;width:40%;margin:5px">
 </div>
 
 </details>
