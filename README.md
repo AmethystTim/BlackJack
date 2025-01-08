@@ -17,26 +17,24 @@
 
 规则基于原版21点做了一定**简化**
 
-1. 使用一副不带大小王的扑克牌
+1. 仅使用一副不带大小王的扑克牌
 2. A视为1点数，J、Q、K均视为10点数
 
 ### 演示
 
-<details>
-
-<summary>展开查看</summary>
+以2人局为例
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/AmethystTim/BlackJack/refs/heads/master/images/readme_1.jpg" style="display:inline-block;width:40%;margin:5px">
 <img src="https://raw.githubusercontent.com/AmethystTim/BlackJack/refs/heads/master/images/readme_2.jpg" style="display:inline-block;width:40%;margin:5px">
 </div>
 
-</details>
-
 ### 指令
 
-- blackjack/21点: 创建游戏
-- 加入游戏
-- 开始游戏
-- 结束游戏
-- 要牌/不要牌：决定是否要继续抽牌
+|指令|备注|
+|-|-|
+|blackjack/21点|创建游戏|
+|加入游戏||
+|开始游戏||
+|结束游戏|参与玩家强制结束游戏|
+|要牌/不要牌|决定是否要继续抽牌|
